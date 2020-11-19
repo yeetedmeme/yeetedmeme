@@ -17,7 +17,7 @@ anything, if i can il help you
 - 😄 Pronouns: 
 he/him
 - ⚡ Fun fact: 
-Im from canada!
+I like watching anime!
 
 <details>
   <summary>GitHub stats</summary>
