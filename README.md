@@ -18,3 +18,5 @@ anything, if i can il help you
 he/him
 - ⚡ Fun fact: 
 Im from canada!
+
+[![yeetedmemes's github stats](https://github-readme-stats.vercel.app/api?username=yeetedmeme)](https://github.com/anuraghazra/github-readme-stats)
