@@ -19,5 +19,5 @@ he/him
 - ⚡ Fun fact: 
 Im from canada!
 
-[![yeetedmemes's github stats](https://github-readme-stats.vercel.app/api?username=yeetedmeme)](https://github.com/anuraghazra/github-readme-stats)
+  [![Atlas' GitHub stats](https://github-readme-stats.vercel.app/api?username=yeetedmeme&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeetedmeme)](https://github.com/anuraghazra/github-readme-stats)
